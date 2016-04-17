@@ -1,0 +1,5 @@
+projectKey=Tutorial:SonarCsharp
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/Tutorial:SonarCsharp
+ceTaskId=AVQkp6LpivbQyeGTtLHY
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVQkp6LpivbQyeGTtLHY
