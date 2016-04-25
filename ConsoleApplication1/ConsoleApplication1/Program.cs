@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             int myvariable = 0;
 
+            int kvariable = 100;
+
             Sonar sonar = new Sonar();
 
             sonar.Welcom();
