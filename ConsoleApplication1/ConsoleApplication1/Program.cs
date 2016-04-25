@@ -14,6 +14,8 @@ namespace ConsoleApplication1
 
             int kvariable = 100;
 
+            int xyzvariable = 200;
+
             Sonar sonar = new Sonar();
 
             sonar.Welcom();
