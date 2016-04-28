@@ -10,6 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+
+            //This is branched code
             int myvariable = 0;
 
             int kvariable = 100;
