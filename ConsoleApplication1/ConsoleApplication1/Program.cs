@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             int myvariable = 0;
-
+            //this is bug free
             int kvariable = 100;
 
             int xyzvariable = 200;
