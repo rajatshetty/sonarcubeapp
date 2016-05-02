@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
 
             //This is branched code
-            int myvariable = 0;
+            int myvariable = 0
             //this is bug free
             int kvariable = 100;
 
