@@ -15,8 +15,7 @@ namespace ConsoleApplication1
             int myvariable = 0;
             //this is bug free
             int kvariable = 100;
-
-            int xyzvariable = 200;
+            
 
             int abcdvariable = 300;
 
