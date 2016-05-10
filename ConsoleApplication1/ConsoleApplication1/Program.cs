@@ -19,6 +19,8 @@ namespace ConsoleApplication1
 
             int abcdvariable = 300;
 
+            int sampleVariable = 400;
+
             Sonar sonar = new Sonar();
 
             sonar.Welcom();
